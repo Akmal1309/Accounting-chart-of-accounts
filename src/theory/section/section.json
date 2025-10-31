@@ -1,20 +1,26 @@
 {
   "section 0": {
-    "name": "Активы",
-    "part 1": "Текущие активы",
-    "part 2": "Постоянные активы"
+    "name": "Alphabet",
+    "part 1": "Hiragana",
+    "part 2": "Katakana"
   },
   "section 1": {
-    "name": "Обязательства",
-    "part 1": "Текущие обязательства",
-    "part 2": "Постоянные обязательства",
+    "name": "Vocabulary",
+    "part 1": "Lesson 1",
+    "part 2": "Lesson 2",
+    "part 3": "Lesson 3",
+    "part 4": "Lesson 4",
+    "part 5": "Lesson 5",
+    "part 6": "Lesson 6",
+    "part 7": "Lesson 7",
+    "part 8": "Lesson 8",
+    "part 9": "Lesson 9",
+    "part 10": "Lesson 10"
   },
   "section 2": {
-    "name": "Собстенный капитал",
-    "part 1": "Собстенный капитал"
-  },
-  "section 3": {
-    "name": "Доходы и расходы",
-    "part 1": "Доходы и расходы"
+    "name": "Numeral",
+    "part 1": "Current time",
+    "part 2": "Days of the week",
+    "part 3": "Date"
   }
 }
