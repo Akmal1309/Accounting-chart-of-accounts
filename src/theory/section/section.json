@@ -5,22 +5,8 @@
     "part 2": "Katakana"
   },
   "section 1": {
-    "name": "Vocabulary",
-    "part 1": "Lesson 1",
-    "part 2": "Lesson 2",
-    "part 3": "Lesson 3",
-    "part 4": "Lesson 4",
-    "part 5": "Lesson 5",
-    "part 6": "Lesson 6",
-    "part 7": "Lesson 7",
-    "part 8": "Lesson 8",
-    "part 9": "Lesson 9",
-    "part 10": "Lesson 10"
-  },
-  "section 2": {
-    "name": "Numeral",
-    "part 1": "Current time",
-    "part 2": "Days of the week",
-    "part 3": "Date"
+    "name": "Обязательство",
+    "part 1": "Текущие обязательство",
+    "part 2": "Долгосрочные обязательство"
   }
 }
